@@ -47,6 +47,10 @@ ScannerViewController *scannerVC;
 - (void)openScanner:(CDVInvokedUrlCommand*)command
 {
     [[UIApplication sharedApplication] setStatusBarHidden:YES animated:NO];
+ 
+    //make background transparent
+    self.webView.opaque = NO;
+    self.webView.backgroundColor = [UIColor clearColor];
     
     CDVPluginResult* pluginResult = nil;
     
