@@ -42,7 +42,7 @@ import android.view.SurfaceView;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.imactivate.example.R;
+import uk.ac.ox.museums.hiddenmuseum.R;
 import com.moodstocks.android.AutoScannerSession;
 import com.moodstocks.android.MoodstocksError;
 import com.moodstocks.android.Result;

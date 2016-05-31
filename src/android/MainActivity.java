@@ -1,4 +1,4 @@
-package com.imactivate.example;
+package uk.ac.ox.museums.hiddenmuseum;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

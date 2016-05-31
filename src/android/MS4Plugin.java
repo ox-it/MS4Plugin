@@ -30,7 +30,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import com.imactivate.example.MainActivity;
+import uk.ac.ox.museums.hiddenmuseum.MainActivity;
 import com.moodstocks.android.Result;
 
 import android.util.Log;
