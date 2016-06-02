@@ -22,7 +22,7 @@ import android.util.Base64;
 import android.util.Log;
 import android.view.View;
 import android.view.Window;
-import com.imactivate.example.R;
+import uk.ac.ox.museums.hiddenmuseum.R;
 import com.moodstocks.android.Result;
 import com.moodstocks.android.Scanner;
 import com.moodstocks.android.MoodstocksError;
